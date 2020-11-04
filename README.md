@@ -1,2 +1,2 @@
 # AMIs
-Curated set of Amazon Machine Images
+AMI installation instructions
